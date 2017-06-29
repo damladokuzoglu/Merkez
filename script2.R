@@ -1,6 +1,6 @@
 help
 help()
-fhbkjvnfşkbv
+
 
 
 library(RODBC)
