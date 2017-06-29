@@ -1,5 +1,2 @@
 help
-help(
-  
-)
-vjlvntrwşblrb
+help()
